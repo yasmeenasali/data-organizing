@@ -1,0 +1,56 @@
+Table 1 
+Low-luminosity LVL Sample
+
+
+Galaxy	R.A.	Decl.	F_[4.5]	$F_{K_S}$	D	Reference	M_B	M_[4.5]	$M_{K_S}$	(B - V)_0	log L_[4.5]	log M_sstarf	
+	(J2000)	(J2000)	(mJy)	(mJy)	(Mpc)	Method	(mag)	(mag)	(mag)	(mag)	(L_sun)	(M_sun)	
+UGC 521	00:51:12.1	12:01:26	2.24	5.43 +or- 2.88	10.9	13, v(flow)	-15.16 +or- 0.50	-17.93 +or- 0.61	-17.46 +or- 0.52	0.34 +or- 0.05	8.50 +or- 0.61	7.96 +or- 0.61	
+UGC 695	01:07:46.4	01:03:52	3.02	<8.45	10.2	6, v(flow)	-15.13 +or- 0.50	-18.11 +or- 0.61	-17.80 +or- 0.52	0.45 +or- 0.06	8.57 +or- 0.61	8.08 +or- 0.61	
+NGC 404	01:09:27.0	35:43:05	239	676 +or- 340	3.05 +or- 0.04	4, trgb	-16.39 +or- 0.07	-20.23 +or- 0.35	-19.94 +or- 0.14	0.83^c	9.42 +or- 0.35	9.20 +or- 0.35	
+UGC 1056	01:28:47.6	16:41:21	4.14	29.1 +or- 4.0	10.32	6, v(flow)	-15.09 +or- 0.52	-18.47 +or- 0.61	-19.17 +or- 0.50	0.57 +or- 0.07	8.72 +or- 0.61	8.62 +or- 0.61	
+UGC 1176	01:40:09.9	15:54:20	6.22	<26.6	9.04 +or- 1.66	9, bs	-15.48 +or- 0.93	-18.63 +or- 0.98	-18.78 +or- 0.92	0.31 +or- 0.10	8.78 +or- 0.98	8.48 +or- 0.98	
+NGC 784	02:01:16.9	28:50:09	35.0	72.2 +or- 9.9	5.19 +or- 0.12	12, trgb	-16.50 +or- 0.12	-19.30 +or- 0.36	-18.66 +or- 0.20	0.40 +or- 0.04	9.05 +or- 0.36	8.48 +or- 0.36	
+UGC 2716	03:24:08.1	17:45:15	7.58	22.2 +or- 4.7	6.2	6, v(flow)	-15.31 +or- 0.50	-18.04 +or- 0.61	-17.78 +or- 0.51	0.31 +or- 0.06	8.55 +or- 0.61	8.13 +or- 0.61	
+KKH 37	06:47:45.4	80:07:26	1.58	6.43 +or- 2.81	3.39 +or- 0.12	4, trgb	-11.98 +or- 0.20	-15.01 +or- 0.39	-15.11 +or- 0.20	0.54 +or- 0.06	7.34 +or- 0.39	7.01 +or- 0.39	
+NGC 2537	08:13:14.6	45:59:30	51.4	160 +or- 10	6.88	10, bs	-17.14 +or- 0.50	-20.34 +or- 0.61	-20.36 +or- 0.51	0.72^c	9.47 +or- 0.61	9.10 +or- 0.61	
+UGC 4278	08:13:58.9	45:44:37	15.5	35.8 +or- 5.1	7.6	6, v(flow)	-16.36 +or- 0.50	-19.24 +or- 0.60	-18.73 +or- 0.52	0.35^c	9.03 +or- 0.60	8.50 +or- 0.60	
+NGC 2552	08:19:19.2	50:00:37	22.7	54.9 +or- 8.1	7.7	6, v(flow)	-16.72 +or- 0.50	-19.67 +or- 0.61	-19.21 +or- 0.52	0.43 +or- 0.04	9.20 +or- 0.61	8.69 +or- 0.61	
+UGC 4393	08:26:04.4	45:58:04	7.24	 ... 	16.8 +or- 2.9	15, TF	-17.67 +or- 0.85	-21.65 +or- 0.86^b	 ... 	0.60^d	9.99 +or- 0.86	9.43 +or- 0.86	
+CGCG 35-007	09:34:44.9	06:25:32	2.88	13.5 +or- 3.4	5.2	6, v(flow)	-13.38 +or- 0.51	-16.58 +or- 0.61	-16.83 +or- 0.51	0.54 +or- 0.10	7.97 +or- 0.61	7.69 +or- 0.61	
+UGC 5139	09:40:30.0	71:11:05	5.98	16.0 +or- 7.3	3.90 +or- 0.05	4, trgb	-14.42 +or- 0.12	-16.76 +or- 0.51	-16.41 +or- 0.20	0.36 +or- 0.07	8.04 +or- 0.51	7.39 +or- 0.51	
+IC 559	09:44:43.8	09:36:54	5.55	23.7 +or- 4.1	4.9	6, v(flow)	-14.12 +or- 0.50	-17.19 +or- 0.61	-17.34 +or- 0.51	0.48^d	8.21 +or- 0.61	7.86 +or- 0.61	
+UGC 5272	09:50:22.4	31:29:16	5.12	15.8 +or- 4.2	7.11 +or- 0.77	8, bs	-14.98 +or- 0.55	-17.90 +or- 0.64	-17.70 +or- 0.55	0.37^c	8.49 +or- 0.64	8.00 +or- 0.64	
+UGC 5340	09:56:45.8	28:49:32	1.94	<9.36	12.1 +or- 0.7	16, trgb	-15.83 +or- 0.55	-17.99 +or- 0.44	-18.28 +or- 0.29	0.13 +or- 0.08	8.53 +or- 0.44	7.97 +or- 0.45	
+UGC 5423	10:05:30.6	70:21:52	3.63	13.6 +or- 2.7	5.27 +or- 0.40	10, bs	-13.77 +or- 0.38	-16.88 +or- 0.85	-16.89 +or- 0.53	0.48 +or- 0.04	8.09 +or- 0.85	7.77 +or- 0.85	
+UGC 5672	10:28:20.8	22:34:16	7.71	25.3 +or- 5.3	6.25	10, bs	-14.73 +or- 0.52	-18.06 +or- 0.61	-17.93 +or- 0.51	0.64 +or- 0.05	8.56 +or- 0.61	8.38 +or- 0.61	
+UGC 5692	10:30:36.6	70:37:03	17.7	66.4 +or- 8.4	3.80 +or- 0.05	4, trgb	-14.68 +or- 0.08	-17.88 +or- 0.35	-17.89 +or- 0.11	0.68 +or- 0.04	8.48 +or- 0.35	8.16 +or- 0.35	
+UGC 5797	10:39:25.2	01:43:05	4.09	11.7 +or- 4.2	6.8	6, v(flow)	-14.56 +or- 0.51	-17.57 +or- 0.61	-17.29 +or- 0.51	0.46 +or- 0.08	8.36 +or- 0.61	7.75 +or- 0.61	
+UGC 5923	10:49:07.6	06:55:03	6.41	21.8 +or- 2.5	7.2	6, v(flow)	-14.70 +or- 0.50	-18.16 +or- 0.61	-18.06 +or- 0.51	0.66 +or- 0.02	8.59 +or- 0.61	8.29 +or- 0.61	
+NGC 3738	11:35:48.6	54:31:29	39.9	104 +or- 8	4.9 +or- 0.6	3, trgb	-16.51 +or- 0.61	-19.32 +or- 0.70	-18.93 +or- 0.63	0.39^c	9.06 +or- 0.70	8.50 +or- 0.70	
+NGC 3741	11:36:05.8	45:17:11	3.24	11.2 +or- 4.5	3.24 +or- 0.13	4, trgb	-13.18 +or- 0.22	-15.69 +or- 0.40	-15.62 +or- 0.22	0.31 +or- 0.07	7.61 +or- 0.40	7.05 +or- 0.40	
+UGC 6782	11:48:57.0	23:50:17	2.30	<8.88	13.7	7, bs	-15.54 +or- 0.51	-18.45 +or- 0.61	-18.49 +or- 0.51	0.53^c	8.71 +or- 0.61	8.29 +or- 0.61	
+UGC 6817	11:50:54.1	38:52:51	4.99	21.5 +or- 6.0	2.59 +or- 0.17	4, trgb	-13.70 +or- 0.34	-15.68 +or- 0.48	-15.84 +or- 0.34	0.30^c	7.60 +or- 0.48	6.97 +or- 0.48	
+UGC 6900	11:55:39.4	31:31:10	5.41	18.1 +or- 5.2	7.5	6, v(flow)	-14.62 +or- 0.53^a	-18.06 +or- 0.61	-17.95 +or- 0.51	0.64^c	8.56 +or- 0.61	8.19 +or- 0.61	
+NGC 4163	12:12:09.2	36:10:10	11.5	32.6 +or- 5.8	2.88 +or- 0.04	4, trgb	-13.65 +or- 0.12^a	-16.81 +or- 0.35	-16.52 +or- 0.14	0.44^c	8.06 +or- 0.35	7.61 +or- 0.35	
+CGCG 269-049	12:15:47.2	52:23:17	1.24	3.31 +or- 1.99	1.60 +or- 0.04	4, trgb	-10.83 +or- 0.14	-13.12 +or- 0.36	-12.76 +or- 0.18	0.28 +or- 0.06	6.58 +or- 0.36	5.90 +or- 0.36	
+UGC 7577	12:27:40.9	43:29:44	14.2	41.9 +or- 6.9	2.58 +or- 0.07	4, trgb	-14.12 +or- 0.14	-16.80 +or- 0.36	-16.55 +or- 0.18	0.48^c	8.05 +or- 0.36	7.50 +or- 0.36	
+NGC 4449	12:28:10.1	44:05:31	315	893 +or- 46	3.82 +or- 0.26	14, trgb	-18.02 +or- 0.34	-21.02 +or- 0.48	-20.73 +or- 0.36	0.37 +or- 0.04	9.74 +or- 0.48	9.25 +or- 0.48	
+UGC 7599	12:28:28.5	37:14:01	1.43	4.01 +or- 2.06	6.9	7, bs	-14.35 +or- 0.51^a	-16.45 +or- 0.61	-16.14 +or- 0.52	0.40^c	7.91 +or- 0.61	7.19 +or- 0.61	
+UGC 7605	12:28:38.5	35:42.58	2.41	6.09 +or- 2.45	4.43 +or- 0.57	3, trgb	-13.49 +or- 0.66^a	-16.05 +or- 0.73	-15.63 +or- 0.66	0.29 +or- 0.04	7.75 +or- 0.73	7.12 +or- 0.73	
+UGC 7639	12:29:53.4	47:31:52	7.68	26.4 +or- 5.5	7.1 +or- 0.5	11, sbf	-15.55 +or- 0.37^a	-18.33 +or- 0.49	-18.25 +or- 0.37	 ... 	8.67 +or- 0.49	8.25 +or- 0.49	
+NGC 4656	12:43:57.7	32:10:05	70.5	135 +or- 14	8.6	6, v(flow)	-18.75 +or- 0.51^a	-21.15 +or- 0.61	-20.44 +or- 0.53	0.42^c	9.79 +or- 0.61	9.04 +or- 0.61	
+UGC 8201	13:06:24.5	67:42:28	9.09	37.3 +or- 6.3	4.57 +or- 0.40	3, trgb	-15.17 +or- 0.44	-17.56 +or- 0.60	-17.67 +or- 0.45	0.24 +or- 0.04	8.36 +or- 0.60	7.82 +or- 0.60	
+UGC 8245	13:08:35.2	78:56:14	5.98	20.0 +or- 4.3	3.64	6, v(flow)	-13.67 +or- 0.50	-16.61 +or- 0.61	-16.50 +or- 0.51	0.47 +or- 0.04	7.98 +or- 0.61	7.53 +or- 0.61	
+UGC 8508	13:30:44.1	54:54:40	4.87	13.9 +or- 4.2	2.58 +or- 0.03	4, trgb	-13.03 +or- 0.07	-15.64 +or- 0.35	-15.36 +or- 0.13	0.37 +or- 0.03	7.59 +or- 0.35	7.00 +or- 0.35	
+UGC 8638	13:39:19.2	24:46:36	5.01	15.2 +or- 4.6	4.27 +or- 0.34	5, trgb	-13.77 +or- 0.40	-16.77 +or- 0.53	-16.55 +or- 0.41	0.47 +or- 0.04	8.04 +or- 0.53	7.57 +or- 0.53	
+UGC 8837	13:54:45.7	53:54:03	10.1	26.5 +or- 7.1	8.3	2, bs	-15.92 +or- 0.51^a	-18.97 +or- 0.61	-18.59 +or- 0.52	0.42^c	8.92 +or- 0.61	8.41 +or- 0.61	
+NGC 5477	14:05:33.1	54:27:39	5.17	22.0 +or- 4.5	7.7	2, bs	-15.22 +or- 0.51^a	-18.08 +or- 0.61	-18.23 +or- 0.51	0.34^c	8.56 +or- 0.61	8.15 +or- 0.61	
+UGC 9405	14:35:24.4	57:15:19	3.97	12.9 +or- 5.0	8.02 +or- 0.74	8, bs	-14.97 +or- 0.47^a	-17.88 +or- 0.58	-17.74 +or- 0.47	0.68^d	8.48 +or- 0.58	7.97 +or- 0.58	
+UGC 10818	17:19:42	61:18:47	4.65	 ... 	56	1, h(flow)	-18.59 +or- 0.50	-20.96 +or- 0.51^b	 ... 	 ... 	9.72 +or- 0.51	9.45 +or- 0.51	
+KKH 98	23:45:34.3	38:43:00	1.56	7.56 +or- 3.09	2.45 +or- 0.04	4, trgb	-11.10 +or- 0.16	-14.29 +or- 0.36	-14.58 +or- 0.11	0.20 +or- 0.13	7.05 +or- 0.36	6.72 +or- 0.36	
+Notes. The low-luminosity LVL sample listed by right ascension. Column 1: galaxy name. Columns 2 and 3: right ascension and declination of the galaxy. Column 4: flux density at 4.5 mum corrected for foreground extinction from Dale et al. (2009). Column 5: flux density in the 2MASS K_S band corrected for foreground extinction from Dale et al. (2009). Columns 6 and 7: distance and source reference. Direct measurements from the literature are used when possible. The methods used to calculate the distances are abbreviated by: trgb (tip of the red giant branch), bs (brightest blue stars), sbf (surface brightness fluctuations), v(flow) (Virgocentric flow model), h(flow) (redshift and Hubble flow model), and TF (Tully-Fisher relation). Column 8: M_Bs are aperture matched to the LVL photometry and are taken from L. van Zee et al. (2012, in preparation), unless otherwise noted. The photometry is corrected for foreground extinction. Column 9: M_[4.5] is calculated from the 4.5 mum IRAC photometry presented in Dale et al. (2009) and distance; from Columns 4 and 6. Column 10: $M_{K_S}$ is calculated from the 2MASS K_S photometry presented in Dale et al. (2009) and distance; from Columns 5 and 6. Note that 179.7 and 666.7 are the zero point fluxes in Janskys for the 4.5 mum IRAC and K_S 2MASS bands, respectively. Column 11: (B - V)_0 color taken from L. van Zee et al. (2012, in preparation); see B - V superscripts for source of exceptions. Column 12: Luminosity at 4.5 mum, assuming M_[4.5] sime 3.3 for the Sun following L06. Column 13: log M_sstarf calculated following method presented in L06; see Section 6.4. Note that UGC 10818 and UGC 4393 are not a part of the LVL survey, but have been included here for completeness (See Section 2.2).
+a Kennicutt et al. (2008); photometry is extinction corrected.
+b Engelbracht et al. (2008), photometry is extinction corrected.
+c de Vaucouleurs et al. (1991); photometry is extinction corrected and k-corrected.
+d Calculated from g-r colors, available on SDSS.org, with foreground extinction correction and 1st order k_filter extinction correction.
+References. (1) Engelbracht et al. 2008; (2) Karachentsev et al. 1994; (3) Karachentsev et al. 2003; (4) Dalcanton et al. 2009 (5) Karachentsev et al. 2006; (6) Kennicutt et al. 2008; (7) Makarova et al. 1998; (8) Makarova & Karachentsev 1998; (9) Sharina et al. 1996; (10) Sharina et al. 1999; (11) Rekola et al. 2005 (12) Tully et al. 2006; (13) van Zee et al. 2006; (14) Annibali et al. 2008; (15) Springob et al. 2009; (16) A. Aloisi, 2011 private communication.
